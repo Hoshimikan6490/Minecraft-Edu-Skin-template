@@ -1,3 +1,3 @@
-skinpack.My skin=My skin
-  skin.My skin.suits name=suits
-  skin.My skin.cat name=cat
+skinpack.<<スキンパックの名前>>=<<英語で見ているときのスキンパックの名前>>
+  skin.My skin.<<スキン①の名前>> name=<<英語で見ているときのスキン①の名前>>
+  skin.My skin.<<スキン②の名前>> name=<<英語で見ているときのスキン②の名前>>
