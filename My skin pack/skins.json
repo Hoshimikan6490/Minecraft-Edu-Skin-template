@@ -1,0 +1,18 @@
+{
+ "skins":[
+ {
+  "localization_name":"suits",
+  "geometry":"geometry.humanoid.custom",
+  "texture":"hoshimikan6490_suit.png",
+  "type":"free"
+ },
+ {
+  "localization_name":"cat",
+  "geometry":"geometry.humanoid.custom",
+  "texture":"hoshimikan6490_cat.png",
+  "type":"free"
+ }
+ ],
+"serialize_name":"My skin",
+"localization_name":"My skin"
+}
