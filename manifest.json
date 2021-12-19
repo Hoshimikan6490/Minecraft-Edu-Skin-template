@@ -1,7 +1,7 @@
 {
   "format_version":1,
   "header":{
-    "name":"My skin",
+    "name":"<<スキンパックの名前>>",
     "uuid":"<<UUIDその①>>",
     "version":[1,0,0]
   },
