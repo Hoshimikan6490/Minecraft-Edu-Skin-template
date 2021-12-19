@@ -1,1 +1,13 @@
-{"format_version":1,"header":{"name":"My skin","uuid":"20b638aa-a3f8-4ac3-885e-673a6b74f30f","version":[1,0,0]},"modules":[{"type":"skin_pack","uuid":"e4c3babd-8656-4503-b4af-253d2cd8a589","version":[1,0,0]}]}
+{
+  "format_version":1,
+  "header":{
+    "name":"My skin",
+    "uuid":"20b638aa-a3f8-4ac3-885e-673a6b74f30f",
+    "version":[1,0,0]
+  },
+  "modules":[{
+    "type":"skin_pack",
+    "uuid":"e4c3babd-8656-4503-b4af-253d2cd8a589",
+    "version":[1,0,0]
+  }]
+}
