@@ -3,11 +3,11 @@
  {
   "localization_name":"<<スキンの名前①>>",
   "geometry":"geometry.humanoid.custom",
-  "texture":"<<「スキンの名前②」の画像ファイル名>>",
+  "texture":"<<「スキンの名前①」の画像ファイル名>>",
   "type":"free"
  },
  {
-  "localization_name":"<<スキンの名前①>>",
+  "localization_name":"<<スキンの名前②>>",
   "geometry":"geometry.humanoid.custom",
   "texture":"<<「スキンの名前②」の画像ファイル名>>",
   "type":"free"
