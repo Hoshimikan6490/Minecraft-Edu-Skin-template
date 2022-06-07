@@ -11,7 +11,7 @@
   "geometry":"geometry.humanoid.custom",
   "texture":"<<「スキンの名前②」の画像ファイル名>>",
   "type":"free"
- },
+ }
  ],
 "serialize_name":"<<スキンパックの名前>>",
 "localization_name":"<<スキンパックの名前>>"
